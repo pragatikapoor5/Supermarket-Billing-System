@@ -1,0 +1,8 @@
+ 1 Milk 70 2
+ 2 Bread 30 0
+ 3 Butter 25 2.5
+ 4 Cheese 89.5 3.5
+ 5 Coffee 380 5
+ 6 Juice 189 2.5
+ 7 Oats 190 2.2
+ 8 Eggs 240 3
