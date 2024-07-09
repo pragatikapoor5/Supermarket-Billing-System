@@ -310,6 +310,7 @@ void SuperMarket :: remove_product()
         {
             cout<<"\n\t Product Not Found!\n";
             cout<<endl;
+            cout<<endl;
         }
 
     }
