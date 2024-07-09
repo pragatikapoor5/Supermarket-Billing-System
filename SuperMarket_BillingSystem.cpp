@@ -350,7 +350,7 @@ void SuperMarket :: receipt()
 
     if(!data)
     {
-        cout<<"The database is empty!";
+        cout<<"The database is empty!\n\n";
     }
 
     else
